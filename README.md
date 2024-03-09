@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width=70/>
-  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width=70/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width=70/>
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width=70/>
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=70/>
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width=70/>

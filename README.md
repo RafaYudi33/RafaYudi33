@@ -22,8 +22,14 @@
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width=70/>
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=70/>
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width=70/>
-    <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width=70/>
-  
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width=70/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" width=70/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width=70/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width=70/>
+   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width=70/>
+   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width=70/>
+   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width=70/>
+
 </p>
 
 </p>
